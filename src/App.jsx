@@ -74,7 +74,6 @@ import React from "react";
 import "./App.css";
 import { Route, Routes } from "react-router-dom";
 import Signin from "./components/Auth/Signin";
-import Signup from "./components/Auth/Signup";
 import OuterHomepage from "./components/OuterHomepage";
 import NetflixTvshowpage from "./components/NetflixTvshowpage";
 import NetflixHomepage from "./components/NetflixHomepage";
@@ -84,6 +83,7 @@ import ProtectedRoute from "./components/Auth/ProtectedRoute";
 import NetflixWishlistpage from "./components/NetflixWishlistpage";
 import NetflixSearchitemPage from "./components/NetflixSearchitemPage";
 import NetflixFavoriteslistpage from "./components/NetflixFavoriteslistpage";
+import SignUp from "./components/Auth/SignUp";
 
 function App() {
   return (
@@ -92,7 +92,7 @@ function App() {
         {/* Public Routes */}
         <Route path="/" element={<OuterHomepage />} />
         <Route path="/signin" element={<Signin />} />
-        <Route path="/signup" element={<Signup />} />
+        <Route path="/signup" element={<SignUp />} />
 
         {/* Protected Routes */}
         <Route
