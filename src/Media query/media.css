@@ -1,0 +1,614 @@
+@media only screen and (max-width: 1200px){
+
+    .option-home{
+        width: 10vw !important;
+    }
+
+    .banner-main{
+        padding: 32px 65px;
+    }
+
+    .banner-main h2{
+        font-size: 4vw;
+    }
+
+    .banner-main p{
+        font-size: 1.5vw;
+    }
+
+    .banner-main button{
+        font-size: 2vw;
+    }
+}
+
+@media only screen and (max-width: 1000px){
+
+    .bgmain{
+        padding:0 75px;
+    }
+
+    .option-home{
+        width: 13vw !important;
+    }
+
+    .web-logo-home{
+        width: 18.64vw;
+    }
+
+    .banner .swiper-wrapper{
+        height: 540px;
+    }
+
+    .banner .swiper{
+        height: 630px;
+    }
+
+}
+
+@media only screen and (max-width: 768px){
+
+    .option-home{
+        width: 18vw !important;
+    }
+
+    .banner .swiper {
+        height: 135vh;
+        width: 480px;
+    }
+
+    .banner-main-sub{
+        width: 100%;
+    }
+
+    .banner-main p{
+        font-size: 1.9vw;
+    }
+
+    .web-banner-view{
+        display: none;
+    }
+
+    .mobile-banner-view{
+        display: block;
+        padding-top: 90px;
+    }
+
+    .banner-main h2 {
+        font-size: 30px;
+    }
+
+    .banner-main button {
+        width: 100%;
+        font-size: 3vw;
+    }
+
+    .mobile-banner-view-btn-seation{
+        margin-top: 10px;
+    }
+
+    .mobile-banner-view .banner-main {
+        top: 109%;
+        width: 100%;
+    }
+
+    .mobile-banner-view-btn{
+        margin-top: 0 !important;
+    }
+}
+
+@media only screen and (max-width: 578px){
+
+    .bgmain{
+        padding: 0 25px;
+    }
+
+    .Trending_Home_page-button{
+        padding: 8px 18px;
+        font-size: 20px;
+    }
+
+    .Trending_Home_page-bg-page{
+        top: -155px;
+    }
+
+    .option-home{
+        width: 125px !important;
+    }
+
+    .web-logo-home{
+        display: none;
+    }
+
+    .mobile-logo-home {
+        display: block;
+        width: 30px;
+        margin: 0;
+    }
+
+    .banner .swiper {
+        height: 100vh;
+        width: 340px;
+        border-radius: 8px;
+    }
+
+    .mobile-banner-view {
+        top: 0;
+        padding-top: 40px;
+    }
+
+    .mobile-banner-view .banner-main {
+        top: 75%;
+        width: 100%;
+        padding: 32px 25px;
+    }
+
+    .banner-main h2 {
+        font-size: 26px;
+    }
+}
+
+@media only screen and (max-width: 500px){
+    .signup-main{
+        margin-top: 15px;
+    }
+
+    .loginform-main{
+        margin-top: 30px !important;
+        padding: 0 ;
+    }
+}
+
+@media only screen and (max-width: 400px){
+
+    .loginform{
+        padding: 18px;
+    }
+
+    .loginform-input{
+        padding: 8px;
+    }
+
+    .banner .swiper {
+        height: 100vh;
+        width: 300px;
+        border-radius: 8px;
+    }
+
+    .mobile-banner-view {
+        top: 0;
+        padding-top: 20px;
+    }
+
+    .mobile-banner-view .banner-main {
+        top: 68%;
+        width: 100%;
+        padding: 32px 17px;
+    }
+
+    .banner-main button {
+        font-size: 17px;
+        padding: 7px;
+    }
+
+    .banner-main h2 {
+        font-size: 26px;
+    }
+}
+
+/* -=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=- */
+
+@media only screen and (max-width: 1500px){
+    .row .swiper-button-prev {
+        top: 16% !important;
+        width: 3vw !important;
+        height: 21.4vh !important;
+    }
+
+    .row .swiper-button-next {
+        top: 16% !important;
+        width: 3vw !important;
+        height: 21.4vh !important;
+    }
+
+    .row .swiper-slide{
+        width: 244px !important;
+    }
+
+    .container {
+        max-width: 1350px !important;
+    }
+}
+
+@media only screen and (max-width: 1280px){
+
+    .footer-input{
+        width: 55%;
+    }
+
+    .row .swiper-button-prev {
+        top: 15.9% !important;
+        width: 3.5vw !important;
+        height: 21.5vh !important;
+    }
+
+    .row .swiper-button-next {
+        top: 15.9% !important;
+        width: 3.5vw !important;
+        height: 21.5vh !important;
+    }
+}
+
+@media only screen and (max-width: 1024px){
+
+
+    .logo{
+        margin-right: 35px;
+      }
+    
+    .nav-web-view{
+        gap: 15px;
+    }
+
+    .row .swiper-slide{
+        width: 40% !important;
+    }
+
+    .row .swiper-button-prev {
+        top: 13% !important;
+        width: 4vw !important;
+        height: 27vh !important;
+    }
+
+
+    .row .swiper-button-next {
+        top: 13% !important;
+        width: 4vw !important;
+        height: 27vh !important;
+    }
+}
+
+@media only screen and (max-width: 990px){
+
+    .navbar-main{
+        padding-left: 35px;
+        padding-right: 35px;
+    }
+
+    .selectedMovie-section{
+        width: 550px;
+    }
+
+    .selectedMovie-play-section{
+        height: 310px;
+    }
+
+    .play-btn{
+        font-size: 2vw;
+    }
+
+    .selectedMovie-sub-section{
+        min-height: 750px;
+    }
+
+    .selectedMovie-details-sub-section{
+        display: block;
+        margin-top: 30px;
+    }
+
+    .selectedMovie-details-section{
+        padding: 35px;
+        top: 224px;
+    }
+
+    .selectedMovie-details-sub-section-left{
+        width: 100%;
+    }
+
+    .selectedMovie-details-sub-section-right{
+        width: 100%;
+        margin-top: 20px;
+    }
+
+    .genres-section{
+        margin: 8px auto;
+    }
+
+    .rating-section{
+        margin: 8px auto;
+    }
+
+    .selectedMovie-Similar-section{
+        margin-top: 0;
+        padding: 35px; 
+        padding-top: 0;
+    }
+
+    .selectedMovie-Similar-title-section{
+        margin-bottom: 15px;
+    }
+
+    .selectedMovie-Similar-row{
+        padding: 20px;
+    }
+
+    .selectedMovie-Similar-row-img{
+        width: 40%;
+    }
+}
+
+@media only screen and (max-width: 768px){
+
+    .nav-web-view{
+        display: none;
+    }
+
+    .logo{
+        width: 150px;
+        margin: 0;
+    }
+
+    .nav-sub{
+        justify-content: space-evenly;;
+    }
+
+    .bar-icon-mobile{
+        display: block;
+    }
+
+    .web-view{
+        display: none;
+    }
+
+    .mobile-view{
+        display: block;
+        height: 43vh;
+        width: 25vw;
+    }
+
+    .img-inner-text{
+        font-size: 2vw !important;
+    }
+
+    .row .swiper-wrapper{
+        margin: 0 50px !important;
+    }
+
+    .row .swiper-slide{
+        width: fit-content !important;
+    }
+
+    .row .swiper-slide .main-cart{
+        border-radius: 2px !important;
+    }
+
+    .row .swiper-button-prev{
+        display: none;
+    }
+
+    .row .swiper-button-next{
+        display: none;
+    }
+
+    .selectedMovie-section{
+        width: 75%;
+    }
+
+    .selectedMovie-play-section{
+        height: 315px;
+    }
+
+    .play-btn{
+        font-size: 2vw;
+    }
+
+    .selectedMovie-sub-section{
+        min-height: 690px;
+    }
+
+    .selectedMovie-details-sub-section{
+        margin-top: 30px;
+    }
+
+    .selectedMovie-details-section{
+        padding: 35px;
+    }
+
+    .selectedMovie-Similar-section{
+        margin-top: 0;
+    }
+
+    .selectedMovie-Similar-title-section{
+        margin-bottom: 30px;
+    }
+
+    .selectedMovie-Similar-row{
+        padding: 30px;
+    }
+
+    .selectedMovie-Similar-row-overview{
+        width: 100%;
+    }
+}
+
+@media only screen and (max-width: 676px){
+    .mobile-view{
+        height: 38vh;
+        width: 25vw;
+    }
+    
+    .selectedMovie-play-section{
+        height: 280px;
+    }
+    
+    .selectedMovie-details-section {
+        top: 185px;
+    }
+
+    .selectedMovie-Similar-row{
+        padding: 22px;
+    }
+}
+
+@media only screen and (max-width: 600px){
+    .mobile-view{
+        height: 40vh;
+        width: 30vw;
+    }
+}
+
+@media only screen and (max-width: 578px){
+
+    .Features{
+        padding-left: 50px;
+        padding-right: 50px;
+    }
+
+    .mobile-view{
+        width: 100%;
+    }
+
+    .img-inner-text {
+        font-size: 3vw !important;
+    }
+
+    .selectedMovie-section{
+        top: 50px;
+        width: 95%;
+    }
+    
+    .selectedMovie-details-section{
+        top: 28%;
+    }
+
+    .play-btn{
+        font-size: 3vw;
+    }
+
+    .selectedMovie-Similar-row-img{
+        height: 100%;
+    }
+
+    .selectedMovie-Similar-row-sub {
+        display: block;
+        margin: 0 !important;
+    }
+
+    .selectedMovie-Similar-row-img{
+        width: 100%;
+    }
+
+    .selectedMovie-Similar-row-count{
+        display: none;
+    }
+
+    .selectedMovie-Similar-row-overview{
+        display: none;
+    }
+
+    .selectedMovie-Similar-row-sub-detail{
+        margin: 0 auto;
+        margin-top: 15px;
+    }
+
+    .selectedMovie-Similar-row-name{
+        justify-content: center;
+    }
+
+    .selectedMovie-Similar-row-name h3{
+        font-size: 3.5vw;
+    }
+
+}
+
+@media only screen and (max-width: 480px) {
+
+    .Trending-Today-title-div {
+        padding: 0 20px !important;
+    }
+
+    .mobile-view {width: 210px;
+        height: 320px;
+    }
+
+    .img-inner-text {
+        font-size: 4vw !important;
+    }
+
+    .selectedMovie-details-section {
+        top: 30%;
+    }
+
+    .selectedMovie-details-section {
+        padding: 20px;
+    }
+
+    .selectedMovie-Similar-section{
+        padding: 0 20px;
+    }
+
+    .selectedMovie-Similar-row{
+        padding: 10px;
+    }
+    
+    .selectedMovie-play-section {
+        height: 100%;
+    }
+
+    .selectedMovie-details-section {
+        top: 22%;
+    }
+
+    .play-btn{
+        font-size: 4vw;
+    }
+
+    .selectedMovie-details-sub-section{
+        margin-top: 15px;
+    }
+
+    .selectedMovie-sub-section {
+        min-height: 670px;
+    }
+
+    .selectedMovie-Similar-row-name h3 {
+        font-size: 4.5vw;
+    }
+}
+
+@media only screen and (max-width: 400px){
+    .logo{
+        width: 120px;
+        margin: 0;
+    }
+
+    .navbar-main{
+        padding-left: 20px;
+        padding-right: 20px;
+    }
+}
+
+@media only screen and (max-width: 380px){
+
+    .Features{
+        padding-left: 50px;
+        padding-right: 50px;
+    }
+
+    .img-inner-text {
+        font-size: 6vw !important;
+    }
+
+    .selectedMovie-details-section {
+        top: 20%;
+    }
+
+    .selectedMovie-details-section-icon{
+        margin-top: 30px;
+    }
+}
+
+@media only screen and (max-width: 330px){
+    .selectedMovie-details-section {
+        top: 15%;
+    }
+}

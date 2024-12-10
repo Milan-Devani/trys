@@ -1,0 +1,167 @@
+@font-face {
+    font-family: 'Segoe-UI-Regular';
+    font-style: normal;
+    font-weight: normal;
+    src: url('./assets/fonts/Segoe-UI/Segoe_UI.ttf') format('ttf');
+}
+
+
+@font-face {
+    font-family: 'Segoe-UI-Italic';
+    font-style: normal;
+    font-weight: normal;
+    src: url('./assets/fonts/Segoe-UI/Segoe_UI_Italic.ttf') format('ttf');
+}
+
+
+@font-face {
+    font-family: 'Segoe-UI-Bold';
+    font-style: normal;
+    font-weight: normal;
+    src: url('./assets/fonts/Segoe-UI/Segoe_UI_Bold.ttf') format('ttf');
+}
+
+
+@font-face {
+    font-family: 'Segoe-UI-Bold-Italic';
+    font-style: normal;
+    font-weight: normal;
+    src: url('./assets/fonts/Segoe-UI/Segoe_UI_Bold_Italic.ttf') format('ttf');
+}
+
+
+@font-face {
+    font-family: 'HelveticaNeue';
+    font-style: normal;
+    font-weight: normal;
+    src: url('./assets/fonts/Segoe-UI/HelveticaNeueBlack.otf') format('opentype');
+}
+
+
+@font-face {
+    font-family: 'NetflixSans';
+    font-style: normal;
+    font-weight: normal;
+    src: url('./assets/fonts/NetflixSans/NetflixSans-Regular.otf') format('opentype');
+}
+
+@font-face {
+    font-family: 'NetflixSans-Bold';
+    font-style: normal;
+    font-weight: normal;
+    src: url('./assets/fonts/NetflixSans/NetflixSans-Bold.otf') format('opentype');
+}
+
+@font-face {
+    font-family: 'NetflixSans-Light';
+    font-style: normal;
+    font-weight: normal;
+    src: url('./assets/fonts/NetflixSans/NetflixSans-Light.otf') format('opentype');
+}
+
+@font-face {
+    font-family: 'NetflixSans-Medium';
+    font-style: normal;
+    font-weight: normal;
+    src: url('./assets/fonts/NetflixSans/NetflixSans-Medium.otf') format('opentype');
+}
+
+/* Inter */
+
+@font-face {
+    font-family: 'Inter-Black';
+    font-style: normal;
+    font-weight: normal;
+    src: url('./assets/fonts/Inter/Inter_18pt-Black.ttf') format('ttf');
+}
+
+@font-face {
+    font-family: 'Inter-BlackBlackItalic';
+    font-style: normal;
+    font-weight: normal;
+    src: url('./assets/fonts/Inter/Inter_18pt-BlackItalic.ttf') format('ttf');
+}
+
+@font-face {
+    font-family: 'Inter-Bold';
+    font-style: normal;
+    font-weight: normal;
+    src: url('./assets/fonts/Inter/Inter_18pt-Bold.ttf') format('ttf');
+}
+
+@font-face {
+    font-family: 'Inter-BoldItalic';
+    font-style: normal;
+    font-weight: normal;
+    src: url('./assets/fonts/Inter/Inter_18pt-BoldItalic.ttf') format('ttf');
+}
+
+@font-face {
+    font-family: 'Inter-ExtraBold';
+    font-style: normal;
+    font-weight: normal;
+    src: url('./assets/fonts/Inter/Inter_18pt-ExtraBold.ttf') format('ttf');
+}
+
+@font-face {
+    font-family: 'Inter-ExtraBoldItalic';
+    font-style: normal;
+    font-weight: normal;
+    src: url('./assets/fonts/Inter/Inter_18pt-ExtraBoldItalic.ttf') format('ttf');
+}
+
+@font-face {
+    font-family: 'Inter-ExtraLight';
+    font-style: normal;
+    font-weight: normal;
+    src: url('./assets/fonts/Inter/Inter_18pt-ExtraLight.ttf') format('ttf');
+}
+
+@font-face {
+    font-family: 'Inter-ExtraLightItalic';
+    font-style: normal;
+    font-weight: normal;
+    src: url('./assets/fonts/Inter/Inter_18pt-ExtraLightItalic.ttf') format('ttf');
+}
+
+@font-face {
+    font-family: 'Inter-Italic';
+    font-style: normal;
+    font-weight: normal;
+    src: url('./assets/fonts/Inter/Inter_18pt-Italic.ttf') format('ttf');
+}
+
+@font-face {
+    font-family: 'Inter-Light';
+    font-style: normal;
+    font-weight: normal;
+    src: url('./assets/fonts/Inter/Inter_18pt-Light.ttf') format('ttf');
+}
+
+@font-face {
+    font-family: 'Inter-LightItalic';
+    font-style: normal;
+    font-weight: normal;
+    src: url('./assets/fonts/Inter/Inter_18pt-LightItalic.ttf') format('ttf');
+}
+
+@font-face {
+    font-family: 'Inter-Medium';
+    font-style: normal;
+    font-weight: normal;
+    src: url('./assets/fonts/Inter/Inter_18pt-Medium.ttf') format('ttf');
+}
+
+@font-face {
+    font-family: 'Inter-Medium';
+    font-style: normal;
+    font-weight: normal;
+    src: url('./assets/fonts/Inter/Inter_18pt-Medium.ttf') format('ttf');
+}
+
+@font-face {
+    font-family: 'Inter-Regular';
+    font-style: normal;
+    font-weight: normal;
+    src: url('./assets/fonts/Inter/Inter_18pt-Regular.ttf') format('ttf');
+}
