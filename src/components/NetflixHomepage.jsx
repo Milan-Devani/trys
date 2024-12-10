@@ -10,8 +10,8 @@ import TopRatedMovie from "./Moviepage/TopRatedMovie";
 import UpcomingMovie from "./Moviepage/UpcomingMovie";
 import NowPlayMoviePage from "./Moviepage/NowPlayMovieRow";
 import Preloader from "./Preloader";
-import PopularTvshow from "./Tvshowpage/popularTvshow";
 import TvshowAiringToday from "./Tvshowpage/TvshowAiringToday";
+import Populartv from "./Tvshowpage/Populartv";
 
 function NetflixHomepage() {
   const [loading, setLoading] = useState(true);
@@ -42,7 +42,7 @@ function NetflixHomepage() {
         <TvshowRowTrending />
         <NowPlayMoviePage />
         <PopularMoviesRow />
-        <PopularTvshow />
+        <Populartv/>
         <TvshowAiringToday />
         <TopRatedMovie />
         <UpcomingMovie />

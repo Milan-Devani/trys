@@ -4,8 +4,8 @@ import PopularMoviesRow from "./Moviepage/PopularMoviesRow";
 import NowPlayMoviePage from "./Moviepage/NowPlayMovieRow";
 import Navbar from "./Navbar";
 import Preloader from "./Preloader";
-import PopularTvshow from "./Tvshowpage/popularTvshow";
 import Homebanner from "./Homepage/Homebanner";
+import Populartv from "./Tvshowpage/Populartv";
 
 function NetflixNewandPopularpage() {
   const [loading, setLoading] = useState(true);
@@ -33,7 +33,7 @@ function NetflixNewandPopularpage() {
         <Homebanner />
         <PopularMoviesRow />
         <NowPlayMoviePage />
-        <PopularTvshow />
+        <Populartv/>
       </div>
     </div>
   );

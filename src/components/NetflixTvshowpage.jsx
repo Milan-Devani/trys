@@ -4,8 +4,8 @@ import TvshowRow from "./Tvshowpage/TvshowRow";
 import TvshowAiringToday from "./Tvshowpage/TvshowAiringToday";
 import Navbar from "./Navbar";
 import TvshowRowTrending from "./Tvshowpage/TvshowRowTrending";
-import PopularTvshow from './Tvshowpage/popularTvshow';
 import Preloader from "./Preloader";
+import Populartv from "./Tvshowpage/Populartv";
 
 function NetflixTvshowpage() {
   const [loading, setLoading] = useState(true);
@@ -33,7 +33,7 @@ function NetflixTvshowpage() {
         <TvshowBanner />
         <TvshowRowTrending />
         <TvshowAiringToday />
-        <PopularTvshow />
+        <Populartv/>
       </div>
     </div>
   );
