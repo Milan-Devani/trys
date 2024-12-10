@@ -5,7 +5,8 @@ import TvshowAiringToday from "./Tvshowpage/TvshowAiringToday";
 import Navbar from "./Navbar";
 import MovieandTvshowTrendingRow from "./Moviepage/MovieandTvshowTrendingRow";
 import TvshowRowTrending from "./Tvshowpage/TvshowRowTrending";
-import PopularTvshow from "./Tvshowpage/popularTvshow";
+import PopularTvshow from "./Tvshowpage/popularTvshow.jsx"; // Correct path
+
 import Preloader from "./Preloader";
 
 function NetflixTvshowpage() {
