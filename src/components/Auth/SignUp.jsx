@@ -10,7 +10,7 @@ import { auth } from "../firebaseConfig";
 import miniimg from "../../assets/img/mini-img.png";
 import { loginUser, signupUser } from "../Redux/features/auth/authSlice";
 
-const Signup = () => {
+const SignUp = () => {
   const [username, setUserName] = useState("");
   const [email, setEmail] = useState("");
   const [password, setPassword] = useState("");
@@ -277,4 +277,4 @@ const Signup = () => {
   );
 };
 
-export default Signup;
+export default SignUp;
